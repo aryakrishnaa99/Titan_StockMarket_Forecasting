@@ -1,32 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import streamlit as st
-
 #st.write("slider number:", x)
-# In[2]:
-
-
-
-
-# In[6]:
-
-
 import pandas as pd
 import numpy as np
 df=pd.read_csv('Forecast_df.csv')
@@ -60,37 +33,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-
-# In[ ]:
-
-
-
 
 
 # In[ ]:
